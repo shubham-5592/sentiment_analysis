@@ -1,0 +1,9 @@
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+streamlit
+python-dotenv
+transformers
+torch
+huggingface_hub[hf_xet]
